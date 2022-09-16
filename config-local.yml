@@ -1,6 +1,6 @@
 message:
   owner: config-service's native folder
-  content: :) 안녕하세요 각각의 마이크로서비스에서 사용될 데이터입니다. :)
+  content: :) 안녕하세요 각각의 마이크로서비스에서 사용될 데이터입니다. :) 이 정보는 변경될 예정입니다.
 
 spring:
   datasource:
