@@ -6,8 +6,8 @@ spring:
   datasource:
     url: dbUrl
     driver: com.h2.Driver
-    username: admin
-    password: password1234
+    username: "{cipher}f5427d5971ce7f80821e170441930b33e28620365c51948d9246ae590b09a7da"
+    password: "{cipher}062168150f2c06ea29ba2f621f1611bceaebf0fcd474c499f11f21c093f62512"
 
 jwt:
   token:
